@@ -16,3 +16,6 @@ Add:
 "args": ["/pathToYour/dist/index.js"]
 }
 }
+
+Link to learn how it all works:
+https://ripe-stretch-116.notion.site/Apple-Notes-MCP-Server-How-It-Works-From-osascript-to-Claude-3fe4592bdf0b81b89614ebbcf247c636
